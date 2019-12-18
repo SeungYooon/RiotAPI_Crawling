@@ -30,14 +30,14 @@
 
  -**결과 시각화**-
  
-  **최상위 티어 종합 leaguePoints 에 따른 barGraph**
+  **_최상위 티어 종합 leaguePoints 에 따른 barGraph_**
   
  ![막대 시각](https://user-images.githubusercontent.com/40010002/71067643-40052700-21b8-11ea-8301-2176a9da1ffa.png)
  
-  **최상위 티어 종합 heatMap**
+  **_최상위 티어 종합 heatMap_**
   
  ![히트맵](https://user-images.githubusercontent.com/40010002/71067645-41ceea80-21b8-11ea-8064-a7827fb6ccc2.png)
  
-  **최근 경기에 따른 WordCloud**
+  **_최근 경기에 따른 WordCloud_**
   
  ![word](https://user-images.githubusercontent.com/40010002/71067651-44314480-21b8-11ea-971e-a33b3f231400.png)
