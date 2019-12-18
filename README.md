@@ -17,3 +17,5 @@
  
   2013301003_고승윤.pptx - 발표용 파워포인트  ppt
 
+
+https://github.com/SeungYooon/RiotAPI_Crawling/issues/1#issue-539515351
