@@ -5,7 +5,7 @@
    _리그오브레전드의 최상위 티어인 첼린저, 그랜드 마스터, 마스터 티어의 leaguePoints에 따른 데이터 분석
    세가지 최상위 티어의 종합 데이터 분석, 시즌 13의 최근 경기기록 및 누적 챔피언 분석_
 
- **csv 파일**
+ -**csv 파일**-
  
   첼린저_정렬.csv - 첼린저 티어의 leaguePoints 오름차순으로 정렬한 csv
   
@@ -19,16 +19,16 @@
   
   라이엇 API를 이용한 상위 티어의 분석 및 최근 전적 챔피언 분석.ipynb - 아나콘다의 JupiterNotebook 에서 분석한 데이터
   
- **ppt 파일**
+ -**ppt 파일**-
  
   2013301003_고승윤.pptx - 발표용 파워포인트 ppt
 
 
- **Import Module**
+ -**Import Module**-
  
 ![riot](https://user-images.githubusercontent.com/40010002/71067419-d4bb5500-21b7-11ea-9c73-4509bf5a545f.png)
 
- **결과 시각화**
+ -**결과 시각화**-
  
   **최상위 티어 종합 leaguePoints 에 따른 barGraph**
   
