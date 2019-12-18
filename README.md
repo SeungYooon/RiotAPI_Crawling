@@ -24,14 +24,14 @@
 
  **결과 시각화**
  
-  최상위 티어 종합 leaguePoints 에 따른 barGraph
+  **최상위 티어 종합 leaguePoints 에 따른 barGraph**
   
  ![막대 시각](https://user-images.githubusercontent.com/40010002/71067643-40052700-21b8-11ea-8301-2176a9da1ffa.png)
  
-  최상위 티어 종합 heatMap
+  **최상위 티어 종합 heatMap**
   
  ![히트맵](https://user-images.githubusercontent.com/40010002/71067645-41ceea80-21b8-11ea-8064-a7827fb6ccc2.png)
  
-  최근 경기에 따른 WordCloud
+  **최근 경기에 따른 WordCloud**
   
  ![word](https://user-images.githubusercontent.com/40010002/71067651-44314480-21b8-11ea-971e-a33b3f231400.png)
