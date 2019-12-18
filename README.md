@@ -7,7 +7,7 @@
 
  -**csv 파일**-
  
-  #첼린저_정렬.csv - 첼린저 티어의 leaguePoints 오름차순으로 정렬한 csv
+  #첼린저_정렬.csv - 첼린저 티어의 leaguePoints 오름차순으로 정렬한 csv#
   
   그랜드마스터_정렬.csv - 그랜드마스터 티어의 leaguePoints 오름차순으로 정렬한 csv
   
