@@ -17,4 +17,4 @@
  
   2013301003_고승윤.pptx - 발표용 파워포인트  ppt
 
-![alt text](https://github.com/SeungYooon/RiotAPI_Crawling/issues/1#issue-539515351)
+![riot](https://user-images.githubusercontent.com/40010002/71067419-d4bb5500-21b7-11ea-9c73-4509bf5a545f.png)
