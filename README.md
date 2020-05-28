@@ -20,9 +20,6 @@
   라이엇 API를 이용한 상위 티어의 분석 및 최근 전적 챔피언 분석.ipynb - 아나콘다의 JupiterNotebook 에서 분석한 데이터
   
  -**ppt 파일**-
- 
-  2013301003_고승윤.pptx - 발표용 파워포인트 ppt
-
 
  -**Import Module**-
  
